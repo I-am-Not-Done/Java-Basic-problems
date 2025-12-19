@@ -6,3 +6,4 @@ public class SortArray {
         System.out.println("Sorted array: " + Arrays.toString(array1));
     }
 }
+
