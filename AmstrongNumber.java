@@ -4,9 +4,10 @@ public class AmstrongNumber {
         while(temp !=0){
             int digit =temp%10;
             sum +=Math.pow(digit,3);
-            temp/=10;
+            temp/=10; 
         }
         System.out.println(number == sum);
     }
 }
+
 
