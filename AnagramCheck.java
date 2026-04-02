@@ -9,3 +9,4 @@ public class AnagramCheck {
         System.out.println(Arrays.equals(array1,array2));
     }
 }
+  
