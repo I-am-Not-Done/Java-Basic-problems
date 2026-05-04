@@ -1,4 +1,4 @@
- import java.util.Arrays; 
+ import java.util.Arrays;
 public class AnagramCheck { 
     public static void main(String[]args){
         String str1="Sairam", str2="SAIRAM";
