@@ -1,4 +1,4 @@
-public class Primecheck {
+public class Primecheck { 
     public static void main(String[] args) {
         int num=16;
         boolean isPrime =true;
